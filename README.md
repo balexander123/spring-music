@@ -108,4 +108,3 @@ To connect to an Oracle database, you will need to download the appropriate driv
 In `build.gradle`, uncomment the line `compile files('libs/ojdbc8.jar')` or `compile files('libs/ojdbc7.jar')` and run `./gradle assemble`
 
 
-dummy change
